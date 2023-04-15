@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Garry's Mod is a popular sandbox game that allows players to create and manipulate virtual worlds using a wide range of tools and assets. One of the most popular mods for Garry's Mod is Hello Neighbor, ","photo":"https://iili.io/HvEa5uI.jpg"},
+  {"title":"advice pack 2","desc":"The sandbox game Garry's Mod enables users to construct and tinker with virtual worlds using a variety of resources and tools. Hello Neighbor is one of the most well-liked modifications for Garry's Mod.","photo":"https://iili.io/HvEaAyN.jpg"},
+  {"title":"how to use this app 3","desc":", a horror-themed game in which players must sneak into their neighbor's house and uncover its secrets while avoiding detection. Now, with the release of Hello Neighbor 2, fans of the franchise can experience even more thrills and chills in a brand new setting.","photo":"https://iili.io/HvEa7jt.jpg"},
+  {"title":"tips mod 4","desc":", a game with a horror theme where players must infiltrate their neighbor's home and learn its secrets without being seen. Now that Hey Neighbor 2 has been out, fans of the series may enjoy even more chills and thrills in a brand-new setting.","photo":"https://iili.io/HvEauvp.jpg"},
+  {"title":"advance pack 5","desc":"Hello Neighbor 2 takes place in the fictional town of Raven Brooks, where players must investigate strange occurrences and supernatural phenomena that are plaguing the area. ","photo":"https://iili.io/HvEaYZX.jpg"},
+  {"title":"helper mod 6","desc":"In the fictitious town of Raven Brooks, where Hey Neighbor 2 is set, players must look into eerie happenings and paranormal activity that are haunting the neighborhood.","photo":"https://iili.io/HvEacnn.jpg"},
+  {"title":"tips pack 7","desc":"The game features a dynamic AI system that allows the neighbor character to learn and adapt to the player's actions, making each playthrough unique and challenging.","photo":"https://iili.io/HvEalGs.jpg"},
+  {"title":"how to use this app 8","desc":"Each playtime is different and tough thanks to the game's dynamic AI technology, which enables the neighbor character to pick up on player actions and learn from them.","photo":"https://iili.io/HvEa06G.jpg"}
 
    ]
  
